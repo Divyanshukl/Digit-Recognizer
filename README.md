@@ -1,2 +1,2 @@
 # Digit-Recognizer
-This is one of my projects that has the capability to recognize digits between 0 to 9. It can recognize the digits from images, videos as well as real world.
+Designed a neural network using KERAS that could recognize digits from the MNIST digit data set. It had an accuracy of about 99% on the testing dataset. Beside the data set neural network could also recognize digits from real world images with a high accuracy.
